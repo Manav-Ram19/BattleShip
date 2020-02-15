@@ -1,6 +1,7 @@
 # BattleShip
 Note: This code was developed in TurboC++ so it may not compile and run on macOS devices, 
   and for windows devices, the TurboC++ IDE is required.
+  
 Summary:
     I developed this project in the senior year of my High School. A player can play the popular strategy game "Battleship" against the computer.
   
@@ -16,6 +17,7 @@ Summary:
   player misses if the tile they guess does not have any ships on it).
   
    The game goes on until either the player or the computer wins.
+   
   
 Techinical Summary:
     Concepts Used: Greedy Algorithms, Binary Files, OOPS, graphics, 3D Arrays,  basic Machine Learning
