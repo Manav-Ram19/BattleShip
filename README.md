@@ -3,7 +3,8 @@ Note: This code was developed in TurboC++ so it may not compile and run on macOS
   and for windows devices, the TurboC++ IDE is required.
   
 Summary:
-    I developed this project in the senior year of my High School. A player can play the popular strategy game "Battleship" against the computer.
+
+   I developed this project in the senior year of my High School. A player can play the popular strategy game "Battleship" against the computer.
   
    The game involves finding where your opponent placed their 4 ships (Scavenger, Destroyer, Battleship, Carrier), on an 8x8          grid. Players win the game by destroying all of their opponent's ships before their opponent destroys theirs. A ship is     destroyed if a player finds all of the tiles of the 8x8 grid on which the ship is placed. Each ship takes up a unique amount of space: the Scavenger takes 2 squares, the Destroyer takes 3 squares, the Battleship takes 4 squares, and the Carrier takes 5 squares.
   
@@ -20,7 +21,8 @@ Summary:
    
   
 Techinical Summary:
-    Concepts Used: Greedy Algorithms, Binary Files, OOPS, graphics, 3D Arrays,  basic Machine Learning
+
+   Concepts Used: Greedy Algorithms, Binary Files, OOPS, graphics, 3D Arrays,  basic Machine Learning
     
    The computer uses a greedy algorithm to make its decisions.
     
